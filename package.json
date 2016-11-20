@@ -1,0 +1,19 @@
+{
+  "name": "twitterwordcloud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "env2": "^2.1.1",
+    "hapi": "^15.2.0",
+    "inert": "^4.0.2",
+    "node-twitter-api": "^1.8.0",
+    "nodemon": "^1.11.0",
+    "oauth": "^0.9.14"
+  }
+}
